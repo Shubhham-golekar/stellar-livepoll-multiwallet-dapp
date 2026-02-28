@@ -64,6 +64,7 @@ Transaction rejected by user
 Insufficient balance
 
 ## 🛠 Tech Stack
+```
 Layer	Technology
 Frontend	React + Vite
 Blockchain	Stellar Testnet
@@ -72,6 +73,7 @@ Wallet Integration	StellarWalletsKit
 Network API	Horizon
 Version Control	Git & GitHub
 IDE	VS Code
+```
 
 ## 📦 Project Structure
 ```
@@ -140,7 +142,8 @@ src/contract/config.js
 
 With your deployed CONTRACT_ID.
 
-## My stellar contract deployed hash - CAAROXMTEJTDELLW2V5HGVBCXDLO6SPJL5KCDLBP46AXMXFTJGE7I2Z5
+## My stellar contract deployed hash :- 
+CAAROXMTEJTDELLW2V5HGVBCXDLO6SPJL5KCDLBP46AXMXFTJGE7I2Z5
 
 ## 🧪 Error Handling Implementation
 Error Type	Handling
