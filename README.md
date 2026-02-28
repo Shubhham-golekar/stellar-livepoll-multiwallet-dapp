@@ -115,6 +115,7 @@ Smart contract emits event
 UI updates in real-time
 
 ## 🚀 Getting Started
+```
 1️⃣ Clone Repository
 git clone https://github.com/your-username/stellar-livepoll-multiwallet-dapp.git
 cd stellar-livepoll-multiwallet-dapp
@@ -122,6 +123,7 @@ cd stellar-livepoll-multiwallet-dapp
 npm install
 3️⃣ Run Development Server
 npm run dev
+```
 
 ## App runs on:
 
@@ -166,7 +168,8 @@ Poll refresh logic
 UI updates automatically
 
 ## 📝 Commit Requirements
-
+```
 ✔ Minimum 2+ meaningful commits
 ✔ Clear commit messages
 ✔ Clean structured code
+```
