@@ -74,6 +74,7 @@ Version Control	Git & GitHub
 IDE	VS Code
 
 ## 📦 Project Structure
+```
 stellar-livepoll-multiwallet-dapp/
 │
 ├── contract/              # Soroban smart contract
@@ -88,11 +89,14 @@ stellar-livepoll-multiwallet-dapp/
 ├── public/
 ├── package.json
 └── README.md
+```
 
 ## ⚙️ Smart Contract Functions
+```
 init_poll(question: String)
 vote(option: u32)
 get_results() -> Vec<u32>
+```
 
 ## 🔁 User Flow
 
@@ -122,9 +126,8 @@ npm run dev
 ## App runs on:
 
 http://localhost:5173/
-🔗 Smart Contract Deployment
 
-## Contract deployed on Stellar Testnet using Soroban CLI.
+## 🔗 Smart Contract Deployment Contract deployed on Stellar Testnet using Soroban CLI.
 
 Network: Testnet
 RPC: https://soroban-testnet.stellar.org
@@ -143,11 +146,11 @@ Insufficient Balance	Prevent vote & show warning
 📊 Transaction Status Logic
 
 Each vote shows:
-
+```
 setStatus("pending")
 setStatus("success")
 setStatus("failed")
-
+```
 Displayed clearly in UI.
 
 🔔 Real-Time Event Sync
