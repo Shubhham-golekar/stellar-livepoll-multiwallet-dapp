@@ -140,6 +140,8 @@ src/contract/config.js
 
 With your deployed CONTRACT_ID.
 
+## My stellar contract deployed hash - CAAROXMTEJTDELLW2V5HGVBCXDLO6SPJL5KCDLBP46AXMXFTJGE7I2Z5
+
 ## 🧪 Error Handling Implementation
 Error Type	Handling
 Wallet Not Found	Display alert & disable interaction
