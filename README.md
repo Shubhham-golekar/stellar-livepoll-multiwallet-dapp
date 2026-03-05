@@ -143,7 +143,7 @@ src/contract/config.js
 With your deployed CONTRACT_ID.
 
 ## Stellar contract deployed hash :- 
-CAAROXMTEJTDELLW2V5HGVBCXDLO6SPJL5KCDLBP46AXMXFTJGE7I2Z5
+CB6RZBAV2Z2US3HO6XC65HJ5EKA6ZNY62CPQXG6WL5JADIW5LNEJ3TRK
 
 ## 🧪 Error Handling Implementation
 Error Type	Handling
